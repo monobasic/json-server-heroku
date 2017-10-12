@@ -211,7 +211,7 @@
       "imageBig": "wine-red-big.png",
       "map": "map.png",
       "pdf": "winepass_e40301604.pdf",
-      "soldout": true,
+      "soldout": false,
       "preorder": true,
       "ondemand": false,
       "awards": [
