@@ -39,9 +39,9 @@
           "id": "E40301602",
           "size": "75cl",
           "year": "2016",
-          "price": "13.90",
+          "price": "15.90",
           "priceNormal": "15.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301603",
@@ -65,7 +65,7 @@
           "year": "2015",
           "price": "13.90",
           "priceNormal": "13.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301606",
@@ -138,9 +138,9 @@
           "id": "E40301602",
           "size": "75cl",
           "year": "2016",
-          "price": "13.90",
+          "price": "15.90",
           "priceNormal": "15.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301603",
@@ -164,7 +164,7 @@
           "year": "2015",
           "price": "13.90",
           "priceNormal": "13.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301606",
@@ -237,9 +237,9 @@
           "id": "E40301602",
           "size": "75cl",
           "year": "2016",
-          "price": "13.90",
+          "price": "15.90",
           "priceNormal": "15.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301603",
@@ -263,7 +263,7 @@
           "year": "2015",
           "price": "13.90",
           "priceNormal": "13.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301606",
@@ -336,9 +336,9 @@
           "id": "E40301602",
           "size": "75cl",
           "year": "2016",
-          "price": "13.90",
+          "price": "15.90",
           "priceNormal": "15.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301603",
@@ -362,7 +362,7 @@
           "year": "2015",
           "price": "13.90",
           "priceNormal": "13.90",
-          "sale": true
+          "sale": false
         },
         {
           "id": "E40301606",
