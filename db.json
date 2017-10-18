@@ -1,6 +1,402 @@
 {
   "products": [
     {
+      "id": "E20200001",
+      "title": "Humagne Rouge le Château",
+      "label": "AOC",
+      "brand": "Niklaus Wittwer",
+      "area": "Schweiz, Wallis AOC ",
+      "grapes": ["Humagne Rouge",  "Alicante Bouschet"],
+      "organic": "Bio Knospe Zertifizierung",
+      "aging": "Eichenfass aus Holz",
+      "winetype": "red",
+      "temperature": "25°C",
+      "image": "wine-red.png",
+      "imageBig": "wine-red-big.png",
+      "map": "map.png",
+      "pdf": "winepass_e40301604.pdf",
+      "sale": false,
+      "soldout": false,
+      "preorder": false,
+      "ondemand": false,
+      "awards": [
+        {
+          "title": "PIWI Weinpreis",
+          "text": "Preisgekrönt 2015 Internationaler Weinpreis PIWI Weinpreis Wine Award International Schweizer Weinpreis 2014",
+          "image": "piwi.svg"
+        }
+      ],
+      "data": [
+        {
+          "id": "E40301601",
+          "size": "60cl",
+          "year": "2016",
+          "price": "13.40",
+          "priceNormal": "13.40",
+          "sale": false
+        },
+        {
+          "id": "E40301602",
+          "size": "75cl",
+          "year": "2016",
+          "price": "13.90",
+          "priceNormal": "15.90",
+          "sale": true
+        },
+        {
+          "id": "E40301603",
+          "size": "150cl",
+          "year": "2016",
+          "price": "29.90",
+          "priceNormal": "29.90",
+          "sale": false
+        },
+        {
+          "id": "E40301604",
+          "size": "60cl",
+          "year": "2015",
+          "price": "11.90",
+          "priceNormal": "11.90",
+          "sale": false
+        },
+        {
+          "id": "E40301605",
+          "size": "75cl",
+          "year": "2015",
+          "price": "13.90",
+          "priceNormal": "13.90",
+          "sale": true
+        },
+        {
+          "id": "E40301606",
+          "size": "150cl",
+          "year": "2014",
+          "price": "24.90",
+          "priceNormal": "27.90",
+          "sale": false
+        }
+      ],
+      "details": [
+        {
+          "title": "Charakteristik",
+          "text": "Die Farbe ist granatrot mit purpurroten Reflexen. Das aromatische Profil erinnert an Waldbeerengelee, Zwetschgen und delikate Gewürze. Der weiche und doch gut strukturierte Körper verfügt über ein dichtes, seidiges Tannin mit angenehmen zart bitterlichen Konturen. Der Abgang ist anhaltend und dezent ausklingend. Ein finessenreicher, eleganter Wein.Diese subjektive Wahrnehmung kann sich aufgrund der  Lagerzeit verändern."
+        },
+        {
+          "title": "Produzent",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora unde voluptates."
+        },
+        {
+          "title": "Speisenempfehlung",
+          "text": "Passend zu Paste, Pizza und allgemein mediterranen Gerichten."
+        },
+        {
+          "title": "Anbaugebiet",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora."
+        },
+        {
+          "title": "Rebsorte(n)",
+          "text": "Humagne Rouge: Lorem Ipsum, Alicante Bouschet: Lorem Ipsum"
+        }
+      ]
+    },
+    {
+      "id": "E20200002",
+      "title": "Humagne Rouge le Château",
+      "label": "AOC",
+      "brand": "Niklaus Wittwer",
+      "area": "Schweiz, Wallis AOC ",
+      "grapes": ["Humagne Rouge",  "Alicante Bouschet"],
+      "organic": "Bio Knospe Zertifizierung",
+      "aging": "Eichenfass aus Holz",
+      "winetype": "red",
+      "temperature": "25°C",
+      "image": "wine-red.png",
+      "imageBig": "wine-red-big.png",
+      "map": "map.png",
+      "pdf": "winepass_e40301604.pdf",
+      "sale": false,
+      "soldout": false,
+      "preorder": false,
+      "ondemand": false,
+      "awards": [
+        {
+          "title": "PIWI Weinpreis",
+          "text": "Preisgekrönt 2015 Internationaler Weinpreis PIWI Weinpreis Wine Award International Schweizer Weinpreis 2014",
+          "image": "piwi.svg"
+        }
+      ],
+      "data": [
+        {
+          "id": "E40301601",
+          "size": "60cl",
+          "year": "2016",
+          "price": "13.40",
+          "priceNormal": "13.40",
+          "sale": false
+        },
+        {
+          "id": "E40301602",
+          "size": "75cl",
+          "year": "2016",
+          "price": "13.90",
+          "priceNormal": "15.90",
+          "sale": true
+        },
+        {
+          "id": "E40301603",
+          "size": "150cl",
+          "year": "2016",
+          "price": "29.90",
+          "priceNormal": "29.90",
+          "sale": false
+        },
+        {
+          "id": "E40301604",
+          "size": "60cl",
+          "year": "2015",
+          "price": "11.90",
+          "priceNormal": "11.90",
+          "sale": false
+        },
+        {
+          "id": "E40301605",
+          "size": "75cl",
+          "year": "2015",
+          "price": "13.90",
+          "priceNormal": "13.90",
+          "sale": true
+        },
+        {
+          "id": "E40301606",
+          "size": "150cl",
+          "year": "2014",
+          "price": "24.90",
+          "priceNormal": "27.90",
+          "sale": false
+        }
+      ],
+      "details": [
+        {
+          "title": "Charakteristik",
+          "text": "Die Farbe ist granatrot mit purpurroten Reflexen. Das aromatische Profil erinnert an Waldbeerengelee, Zwetschgen und delikate Gewürze. Der weiche und doch gut strukturierte Körper verfügt über ein dichtes, seidiges Tannin mit angenehmen zart bitterlichen Konturen. Der Abgang ist anhaltend und dezent ausklingend. Ein finessenreicher, eleganter Wein.Diese subjektive Wahrnehmung kann sich aufgrund der  Lagerzeit verändern."
+        },
+        {
+          "title": "Produzent",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora unde voluptates."
+        },
+        {
+          "title": "Speisenempfehlung",
+          "text": "Passend zu Paste, Pizza und allgemein mediterranen Gerichten."
+        },
+        {
+          "title": "Anbaugebiet",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora."
+        },
+        {
+          "title": "Rebsorte(n)",
+          "text": "Humagne Rouge: Lorem Ipsum, Alicante Bouschet: Lorem Ipsum"
+        }
+      ]
+    },
+    {
+      "id": "E20200003",
+      "title": "Humagne Rouge le Château",
+      "label": "AOC",
+      "brand": "Niklaus Wittwer",
+      "area": "Schweiz, Wallis AOC ",
+      "grapes": ["Humagne Rouge",  "Alicante Bouschet"],
+      "organic": "Bio Knospe Zertifizierung",
+      "aging": "Eichenfass aus Holz",
+      "winetype": "red",
+      "temperature": "25°C",
+      "image": "wine-red.png",
+      "imageBig": "wine-red-big.png",
+      "map": "map.png",
+      "pdf": "winepass_e40301604.pdf",
+      "sale": false,
+      "soldout": false,
+      "preorder": false,
+      "ondemand": false,
+      "awards": [
+        {
+          "title": "PIWI Weinpreis",
+          "text": "Preisgekrönt 2015 Internationaler Weinpreis PIWI Weinpreis Wine Award International Schweizer Weinpreis 2014",
+          "image": "piwi.svg"
+        }
+      ],
+      "data": [
+        {
+          "id": "E40301601",
+          "size": "60cl",
+          "year": "2016",
+          "price": "13.40",
+          "priceNormal": "13.40",
+          "sale": false
+        },
+        {
+          "id": "E40301602",
+          "size": "75cl",
+          "year": "2016",
+          "price": "13.90",
+          "priceNormal": "15.90",
+          "sale": true
+        },
+        {
+          "id": "E40301603",
+          "size": "150cl",
+          "year": "2016",
+          "price": "29.90",
+          "priceNormal": "29.90",
+          "sale": false
+        },
+        {
+          "id": "E40301604",
+          "size": "60cl",
+          "year": "2015",
+          "price": "11.90",
+          "priceNormal": "11.90",
+          "sale": false
+        },
+        {
+          "id": "E40301605",
+          "size": "75cl",
+          "year": "2015",
+          "price": "13.90",
+          "priceNormal": "13.90",
+          "sale": true
+        },
+        {
+          "id": "E40301606",
+          "size": "150cl",
+          "year": "2014",
+          "price": "24.90",
+          "priceNormal": "27.90",
+          "sale": false
+        }
+      ],
+      "details": [
+        {
+          "title": "Charakteristik",
+          "text": "Die Farbe ist granatrot mit purpurroten Reflexen. Das aromatische Profil erinnert an Waldbeerengelee, Zwetschgen und delikate Gewürze. Der weiche und doch gut strukturierte Körper verfügt über ein dichtes, seidiges Tannin mit angenehmen zart bitterlichen Konturen. Der Abgang ist anhaltend und dezent ausklingend. Ein finessenreicher, eleganter Wein.Diese subjektive Wahrnehmung kann sich aufgrund der  Lagerzeit verändern."
+        },
+        {
+          "title": "Produzent",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora unde voluptates."
+        },
+        {
+          "title": "Speisenempfehlung",
+          "text": "Passend zu Paste, Pizza und allgemein mediterranen Gerichten."
+        },
+        {
+          "title": "Anbaugebiet",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora."
+        },
+        {
+          "title": "Rebsorte(n)",
+          "text": "Humagne Rouge: Lorem Ipsum, Alicante Bouschet: Lorem Ipsum"
+        }
+      ]
+    },
+    {
+      "id": "E20200004",
+      "title": "Humagne Rouge le Château",
+      "label": "AOC",
+      "brand": "Niklaus Wittwer",
+      "area": "Schweiz, Wallis AOC ",
+      "grapes": ["Humagne Rouge",  "Alicante Bouschet"],
+      "organic": "Bio Knospe Zertifizierung",
+      "aging": "Eichenfass aus Holz",
+      "winetype": "red",
+      "temperature": "25°C",
+      "image": "wine-red.png",
+      "imageBig": "wine-red-big.png",
+      "map": "map.png",
+      "pdf": "winepass_e40301604.pdf",
+      "sale": false,
+      "soldout": false,
+      "preorder": false,
+      "ondemand": false,
+      "awards": [
+        {
+          "title": "PIWI Weinpreis",
+          "text": "Preisgekrönt 2015 Internationaler Weinpreis PIWI Weinpreis Wine Award International Schweizer Weinpreis 2014",
+          "image": "piwi.svg"
+        }
+      ],
+      "data": [
+        {
+          "id": "E40301601",
+          "size": "60cl",
+          "year": "2016",
+          "price": "13.40",
+          "priceNormal": "13.40",
+          "sale": false
+        },
+        {
+          "id": "E40301602",
+          "size": "75cl",
+          "year": "2016",
+          "price": "13.90",
+          "priceNormal": "15.90",
+          "sale": true
+        },
+        {
+          "id": "E40301603",
+          "size": "150cl",
+          "year": "2016",
+          "price": "29.90",
+          "priceNormal": "29.90",
+          "sale": false
+        },
+        {
+          "id": "E40301604",
+          "size": "60cl",
+          "year": "2015",
+          "price": "11.90",
+          "priceNormal": "11.90",
+          "sale": false
+        },
+        {
+          "id": "E40301605",
+          "size": "75cl",
+          "year": "2015",
+          "price": "13.90",
+          "priceNormal": "13.90",
+          "sale": true
+        },
+        {
+          "id": "E40301606",
+          "size": "150cl",
+          "year": "2014",
+          "price": "24.90",
+          "priceNormal": "27.90",
+          "sale": false
+        }
+      ],
+      "details": [
+        {
+          "title": "Charakteristik",
+          "text": "Die Farbe ist granatrot mit purpurroten Reflexen. Das aromatische Profil erinnert an Waldbeerengelee, Zwetschgen und delikate Gewürze. Der weiche und doch gut strukturierte Körper verfügt über ein dichtes, seidiges Tannin mit angenehmen zart bitterlichen Konturen. Der Abgang ist anhaltend und dezent ausklingend. Ein finessenreicher, eleganter Wein.Diese subjektive Wahrnehmung kann sich aufgrund der  Lagerzeit verändern."
+        },
+        {
+          "title": "Produzent",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora unde voluptates."
+        },
+        {
+          "title": "Speisenempfehlung",
+          "text": "Passend zu Paste, Pizza und allgemein mediterranen Gerichten."
+        },
+        {
+          "title": "Anbaugebiet",
+          "text": "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab alias aliquam beatae blanditiis, corporis debitis deserunt dignissimos enim excepturi fuga, fugiat maxime nam obcaecati perspiciatis, reprehenderit sed tempora."
+        },
+        {
+          "title": "Rebsorte(n)",
+          "text": "Humagne Rouge: Lorem Ipsum, Alicante Bouschet: Lorem Ipsum"
+        }
+      ]
+    },
+    {
       "id": "E40300001",
       "title": "Humagne Rouge le Château",
       "label": "AOC",
